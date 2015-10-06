@@ -1,3 +1,4 @@
 tohle je nejakej text v druhym souboru
 tady by mohl bejt druhej radek druhyho souboru
 zmena blabla
+druha zmena
