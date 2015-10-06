@@ -3,3 +3,4 @@ je vlastne uplne jedno kolik radku tu bude
 treba tu muzou bejt tri radky, fakt je to jedno
 zmena 123456
 druha zmena
+treti zmena po nahrani na github
