@@ -1,3 +1,6 @@
 tohle je obsah prvniho txt souboru
 zmena abcd
-druha zmena
+druha zmenazmenazmena
+
+
+zmena
